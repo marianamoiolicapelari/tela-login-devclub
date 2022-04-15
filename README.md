@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Esse projeto foi elaborado para mobile. Para acessar basta clicar no link abaixo:
 
-
+https://layoultmobile.netlify.app
 
 ## 📝 Licença
 
