@@ -5,7 +5,7 @@ Layoult mobile criado a partir das aulas do Rodolfo Mori no DevClub.
 
 ## 🎨 Layout
 
-![image](https://github.com/marianamoiolicapelari/site-barbearia/blob/main/imagens/img%20site%20pronto.jpg)
+![image](https://github.com/marianamoiolicapelari/tela-login-devclub/blob/main/ASSETS/telalogin.png)
 
 ## 🛠 Tecnologias
 
@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Esse projeto foi elaborado para mobile. Para acessar basta clicar no link abaixo:
 
-https://barbeariabarbershop.netlify.app
+
 
 ## 📝 Licença
 
